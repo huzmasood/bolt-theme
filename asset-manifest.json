@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bolt-theme/static/css/main.9d3b9148.chunk.css",
+    "main.js": "/bolt-theme/static/js/main.ccd98fdf.chunk.js",
+    "main.js.map": "/bolt-theme/static/js/main.ccd98fdf.chunk.js.map",
+    "runtime-main.js": "/bolt-theme/static/js/runtime-main.a19f7755.js",
+    "runtime-main.js.map": "/bolt-theme/static/js/runtime-main.a19f7755.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/bolt-theme/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.60f1d005.chunk.js": "/bolt-theme/static/js/2.60f1d005.chunk.js",
+    "static/js/2.60f1d005.chunk.js.map": "/bolt-theme/static/js/2.60f1d005.chunk.js.map",
+    "static/js/3.b8c4c207.chunk.js": "/bolt-theme/static/js/3.b8c4c207.chunk.js",
+    "static/js/3.b8c4c207.chunk.js.map": "/bolt-theme/static/js/3.b8c4c207.chunk.js.map",
+    "index.html": "/bolt-theme/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/bolt-theme/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.9d3b9148.chunk.css.map": "/bolt-theme/static/css/main.9d3b9148.chunk.css.map",
+    "static/js/2.60f1d005.chunk.js.LICENSE.txt": "/bolt-theme/static/js/2.60f1d005.chunk.js.LICENSE.txt",
+    "static/media/graph.75c7f4d3.png": "/bolt-theme/static/media/graph.75c7f4d3.png",
+    "static/media/img1.b0d344fc.png": "/bolt-theme/static/media/img1.b0d344fc.png",
+    "static/media/img2.fca56e3d.png": "/bolt-theme/static/media/img2.fca56e3d.png",
+    "static/media/img3.54339402.png": "/bolt-theme/static/media/img3.54339402.png",
+    "static/media/payment-gatway.f301d9bb.png": "/bolt-theme/static/media/payment-gatway.f301d9bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a19f7755.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.60f1d005.chunk.js",
+    "static/css/main.9d3b9148.chunk.css",
+    "static/js/main.ccd98fdf.chunk.js"
+  ]
+}
