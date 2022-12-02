@@ -1,0 +1,25 @@
+.button {
+    color: white;
+    background-color: #ff5722;
+    border-color: #ff5722;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    border: 1px solid transparent;
+}
+
+.button:hover {
+    background-color: #ff7043;
+    border-color: #ff6838;
+    transition: 0.2s;
+}
+
+.email {
+    border-radius: 9999px;
+    width: 60%;
+    border-color: rgba(128, 138, 142, 0.2)
+}
+
+.iput:focus {
+    outline: none;
+}

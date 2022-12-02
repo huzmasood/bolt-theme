@@ -1,0 +1,38 @@
+.footer-nav {
+    color: rgb(59, 70, 86);
+    opacity: 0.4;
+    margin-bottom: 30px;
+}
+
+.f-link {
+    text-decoration: none;
+    color: rgb(37, 55, 63);
+}
+
+.f-link:hover {
+    color: rgb(253, 52, 110)
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 65px;
+}
+
+.icon {
+    color: #E73B54;
+}
+
+.grey-color {
+    color: rgba(38, 39, 41, 0.7)
+}
+
+.footer {
+    color: rgba(37, 55, 63, 0.7);
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+}

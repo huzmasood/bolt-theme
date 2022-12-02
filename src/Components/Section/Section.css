@@ -1,0 +1,50 @@
+.purple-container {
+    background-color: rgb(106, 38, 218);
+    padding-top: 80px;
+    padding-bottom: 64px;
+}
+
+.tab-content {
+    align-self: start;
+    width: 100%;
+    margin-left: 50px;
+}
+
+.p {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.circles {
+    width: 69px;
+    height: 69px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.c1 {
+    background-color: rgb(255, 141, 82);
+    margin-bottom: 10px;
+}
+
+.c2 {
+    background-color: rgb(21, 205, 168);
+}
+
+.nav-link {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.nav-link:hover {
+    border: transparent !important;
+}
+
+.nav-link.active {
+    color: rgb(255, 209, 102) !important;
+    background-color: transparent !important;
+    border: transparent !important;
+    border-bottom: 1px solid rgb(255, 209, 102) !important;
+}

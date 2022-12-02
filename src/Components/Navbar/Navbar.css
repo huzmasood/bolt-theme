@@ -1,0 +1,7 @@
+.btn:focus {
+    box-shadow: none !important;
+}
+
+a#basic-nav-dropdown, a.nav-link {
+    color: black !important;
+}

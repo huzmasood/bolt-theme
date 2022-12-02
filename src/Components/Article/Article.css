@@ -1,0 +1,12 @@
+.gs-link {
+    color: rgb(255, 87, 34);
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 10px 0px;
+    border-bottom: 2px solid rgb(255, 87, 34);
+}
+
+.gs-link:hover {
+    color: #ff5722
+}

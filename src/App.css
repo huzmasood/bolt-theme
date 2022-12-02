@@ -1,0 +1,131 @@
+.heading {
+    color: rgb(37, 55, 63);
+    font-size: 70px;
+    letter-spacing: -2px;
+    font-weight: 500;
+    line-height: 70px;
+}
+
+.statement {
+    color: rgba(37, 55, 63, 0.7);
+    font-size: 21px;
+    font-weight: 400
+}
+
+@media screen and (max-width: 1400px) {
+    .iput {
+        width: 62%;
+    }
+}
+
+@media screen and (max-width: 1315px) {
+    .dispnon {
+        display: none;
+    }
+    .disp {
+        display: block
+    };
+}
+
+@media screen and (max-width: 1270px) {
+    .letss {
+        padding-right: 500px;
+    }
+    .padlr {
+        padding-left: 8rem;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .disnon {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1180px) {
+    .nav {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 1035px) {
+    .letss {
+        padding-right: 250px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .heading {
+        text-align: center;
+    }
+    .statement {
+        text-align: center;
+    }
+    .gslink-center {
+        display: flex;
+        justify-content: center;
+    }
+    .l-img {
+        margin-left: 60px;
+    }
+    .r-content {
+        width: 90%;
+        padding-right: 60px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .heading {
+        font-size: 50px;
+    }
+    .heading-trio {
+        font-size: 50px !important;
+    }
+    .statement {
+        font-size: 18px;
+    }
+    .email {
+        width: 100%;
+    }
+    .pad {
+        padding-top: 0;
+    }
+    .purple-box {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .r-headings {
+        font-size: 38px;
+        padding-left: 3rem;
+    }
+    .padt {
+        padding-top: 0;
+    }
+    .letss {
+        padding-right: 0;
+    }
+    .gs-heading {
+        font-size: 35px !important;
+    }
+    .bluefoot {
+        max-width: 98% !important;
+    }
+    .gs-width {
+        width: 20% !important;
+    }
+    .img {
+        width: 350px !important;
+        height: 275px !important;
+    }
+}
+
+@media screen and (max-width: 555px) {
+    .gs-heading {
+        display: none;
+    }
+    .download-btn {
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 0;
+    }
+}

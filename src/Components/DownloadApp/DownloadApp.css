@@ -1,0 +1,16 @@
+.download-btn {
+    background-image: url(../../images/by.png);
+    padding: 120px;
+    width: 45%;
+    border-radius: 0 1rem 1rem 0;
+    margin-left: 176px;
+}
+
+.button2 {
+    background-color: white !important;
+    border-color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid transparent;
+    margin-right: 50px;
+}
